@@ -7,7 +7,6 @@
 
 📫 You can reach out to me at 📧 razerzhang1@gmail.com 
 
-📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razerzhang&show_icons=true&hide_border=true&theme=tokyonight)
 
 <!--
