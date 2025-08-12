@@ -5,7 +5,7 @@
  🚀 About Me
 🔭 I’m currently involving GenAI and Machine Learning.
 
-📫 You can reach out to me rezerzhang1@gmail.com 
+📫 You can reach out to me through 📧 rezerzhang1@gmail.com 
 
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razerzhang&show_icons=true&hide_border=true&theme=tokyonight)
