@@ -8,7 +8,7 @@
 📫 How to reach me
 You can reach out to me via email. Here's a template for adding your contact information:
 
-📧 Email: rezerzhang@gmail.com
+📧 Email: rezerzhang1@gmail.com
 
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razerzhang&show_icons=true&hide_border=true&theme=tokyonight)
