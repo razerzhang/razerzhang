@@ -11,7 +11,7 @@ You can reach out to me via email. Here's a template for adding your contact inf
 📧 Email: rezerzhang@gmail.com
 
 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaerzhang&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razerzhang&show_icons=true&hide_border=true&theme=tokyonight)
 
 <!--
 **razerzhang/razerzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
