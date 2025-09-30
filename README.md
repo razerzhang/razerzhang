@@ -3,11 +3,11 @@
  I enjoy building software that solves real-world problems and love exploring the latest in technology.
 
  🚀 About Me
-🔭 I’m currently involving GenAI and Machine Learning.
-
-📫 You can reach out to me at 📧 razerzhang1@gmail.com 
+🔭 I’m currently focus on Agentic AI
 
 📖 Blog https://razerzhang.github.io/
+
+📫 You can reach out to me at 📧 razerzhang1@gmail.com 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razerzhang&show_icons=true&hide_border=true&theme=tokyonight)
 
