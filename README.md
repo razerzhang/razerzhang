@@ -6,6 +6,7 @@
 🔭 I’m currently involving GenAI and Machine Learning.
 
 📫 You can reach out to me at 📧 razerzhang1@gmail.com 
+📖 Blog https://razerzhang.github.io/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razerzhang&show_icons=true&hide_border=true&theme=tokyonight)
 
