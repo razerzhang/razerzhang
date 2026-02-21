@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Razer Zhang 👋
+# Hi, I'm Runzhe Zhang 👋
 
 I enjoy building software that solves real-world problems and love exploring the latest in technology.
 
